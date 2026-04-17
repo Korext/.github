@@ -51,7 +51,7 @@ We believe AI code governance requires open standards that no single vendor cont
 ### Track
 
 **[ai-attestation](https://github.com/korext/ai-attestation)**
-Track AI generated code in your repository. Detects AI coding tools from git history. One command install.
+Track AI generated code in your repository. Detects 19 AI coding tools from git history. One command install.
 
 ```bash
 npx @korext/ai-attestation init
@@ -81,7 +81,7 @@ npx @korext/ai-license generate
 ### Scan
 
 **[supply-chain-attestation](https://github.com/korext/supply-chain-attestation)**
-AI provenance across your entire dependency tree. 8+ ecosystems. CycloneDX and SPDX integration.
+AI provenance across your entire dependency tree. 14 ecosystems. CycloneDX and SPDX integration.
 
 ```bash
 npx @korext/supply-check scan
