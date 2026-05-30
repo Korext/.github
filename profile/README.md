@@ -230,3 +230,13 @@ Browse [open issues](https://github.com/orgs/korext/repositories) across all rep
 *AI code governance for the enterprise. Open standards for the industry.*
 
 </div>
+
+## Maintainers
+
+Korext Open Source is created and maintained by [Tom Bruno](https://github.com/tombruno-korext), Founder of [Korext](https://korext.com).
+
+- MEng in AI/ML, Robotics, and Controls (UC Berkeley)
+- MS in Innovation and Entrepreneurship (HEC Paris)
+- BS in Digital Technology, Design, and Innovation (Technological University Dublin)
+
+Contact: maintainers@korext.com
