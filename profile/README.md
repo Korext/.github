@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Korext, AI code governance: open standards and a platform for AI generated code. Know which code AI wrote, and prove it met your rules. The Korext mark sits at the centre of the places it runs: VS Code, Cursor, Windsurf, JetBrains, the CLI, the GitHub Action, Chrome and MCP." width="100%">
+<img src="./banner.svg" alt="Korext, AI code governance: open standards and a platform for AI generated code. Know which code AI wrote, and prove it met your rules. The Korext mark sits at the center of the places it runs: VS Code, Cursor, Windsurf, JetBrains, the CLI, the GitHub Action, Chrome and MCP." width="100%">
 
 <br><br>
 
@@ -22,7 +22,7 @@
 
 ## Why Korext
 
-AI coding tools write code faster than people can review it. Every team that uses them still has to answer the same questions: which code did AI write, which tool wrote it, did it meet our rules, and can we prove it to an auditor? Korext answers them in two parts. **Seven open standards** that anyone can adopt make AI written code traceable, licensable and accountable. **The Korext Platform** checks code against your policies where it is written and signs a proof bundle for every scan.
+AI coding tools write code faster than people can review it. Every team that uses them still has to answer the same questions: which code did AI write, which tool wrote it, did it meet our rules, and can we prove it to an auditor? Korext answers them in two parts. **Seven open standards** that anyone can adopt make AI written code traceable, licensable and accountable. **The Korext Platform** checks code against your policies where it is written and signs proof bundles for audit.
 
 <br>
 
@@ -45,7 +45,7 @@ Seven standards with free tools, from tracking which AI tools touched a reposito
 
 ### Korext Platform
 
-72 policy packs and 532 rules across 13 languages, in your editor, terminal, pull requests and AI assistant. Every scan produces a signed proof bundle, with processing in the US, the EU or Asia Pacific.
+72 policy packs and 532 rules across 13 languages, in your editor, terminal, pull requests and AI assistant. Authenticated scans produce signed proof bundles, with processing in the US, the EU or Asia Pacific.
 
 <a href="#the-platform"><b>See the platform →</b></a> &nbsp; <a href="https://korext.com"><b>korext.com →</b></a>
 
@@ -114,13 +114,13 @@ Seven standards with free tools, from tracking which AI tools touched a reposito
 </tbody>
 </table>
 
-<sub>Each standard has its own page at <a href="https://oss.korext.com">oss.korext.com</a>, with the specification, the tool and how to contribute.</sub>
+<sub>Each standard has its own page at <a href="https://oss.korext.com">oss.korext.com</a>, with the specification and the tool.</sub>
 
 <br><br>
 
 ## The platform
 
-The Korext Platform enforces security, regulatory and engineering policies on human written and AI generated code: 72 policy packs and 532 rules across 13 languages. Each decision (pass, warn or block) comes with a signed proof bundle that records the policy version, the checks that ran, the evidence and where the code was processed, ready for an audit or an incident review.
+The Korext Platform enforces security, regulatory and engineering policies on human written and AI generated code: 72 policy packs and 532 rules across 13 languages. With an API token, each decision (pass, warn or block) comes with a signed proof bundle that records the policy version, the checks that ran, the evidence and where the code was processed, ready for an audit or an incident review.
 
 <table>
 <thead>
@@ -164,7 +164,7 @@ jobs:
 ## How it fits together
 
 <div align="center">
-<img src="./stack.svg" alt="How Korext fits together: seven open standards (ai-attestation, ai-license, supply-chain-attestation, ai-incident-registry, ai-code-radar, ai-regression-database, commit-carbon) feed the Korext Platform, which checks AI generated code against 72 policy packs and 532 rules in 13 languages and signs a proof bundle for every scan, and enforce-action, which scans every pull request and fails the check on critical or high severity violations." width="100%">
+<img src="./stack.svg" alt="How Korext fits together: seven open standards (ai-attestation, ai-license, supply-chain-attestation, ai-incident-registry, ai-regression-database, ai-code-radar, commit-carbon) feed the Korext Platform, which checks AI generated code against 72 policy packs and 532 rules in 13 languages and signs proof bundles for audit, and enforce-action, which scans every pull request and fails the check on critical or high severity violations." width="100%">
 </div>
 
 <br>
